@@ -1,4 +1,5 @@
 LOGSITIC REGRESSION MODEL FOR RIGHT VENTRICLE DSYFUNCTION
+
 This repository contains a logistic regression model designed to predict Right Ventricular (RV) Dysfunction from a dataset of patient medical records. The dataset includes various features such as heart rate, blood pressure, and echocardiography measurements, among others, to classify the severity of RV dysfunction. The model aims to aid in early diagnosis and treatment decisions for patients at risk of RV dysfunction.
 
 FEATURES
